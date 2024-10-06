@@ -3,6 +3,14 @@
 
 ### Project Title: 
 
+### Outlines
+- [Project Overview](#project-overview)
+- [Tools used](#tools-used)
+- [Data Cleaning and Prepartions](#data-cleaning-and-prepartions)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Data visualization](#data-visualization)
 ### Project Overview: 
 
 ### Data Sorces
@@ -14,7 +22,7 @@ The primary source of data used here is data sale.csv and this is an open source
 - PowerBI for dashboard visualization
 - Github for portfolio building
 
-### Data  Cleaning and Prepartions
+### Data Cleaning and Prepartions
 In the initial phase of the Data cleaning and preparations, we perform the following actions;
 1. data loading and Inspection
 2. Handling missing variables
@@ -36,4 +44,6 @@ WHERE CONDITION = TRUE
 
 ### Data visualization
 
-
+|heading 1|heading 2|heading 3|
+|---------|---------|---------|
+|Table 1  |table 2  |Table 3  |
