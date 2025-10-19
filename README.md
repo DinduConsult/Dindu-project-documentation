@@ -72,7 +72,8 @@ WHERE CONDITION = TRUE
 <img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/a7f025e6-c87b-4f28-9fb5-5651374ccd8a" />
 
 
-### Procurement Officer [Ngcom Networks Solutions Ltd]
+### Procurement Officer 
+[Ngcom Networks Solutions Ltd]
 
 - Managed procurement operations.
 - Monitored, verified inventory and accurately kept records of equipment while ensuring that every product information, purchase orders and shipping details are correctly recorded using Excel
@@ -87,9 +88,9 @@ WHERE CONDITION = TRUE
 Microsoft Excel | MS Word | Google shared sheet |
 
 
-## 💼 Professional Experience  
 
-### Freelancer / Administrative Consultant  [Dindu Consult]
+### Freelancer / Administrative Consultant
+[Dindu Consult]
 
 - Provide administrative and procurement support for small businesses, including vendor coordination, and purchasing documentation.  
 - Developed and maintained Excel-based tools for tracking expenses, managing inventory, and optimizing purchasing workflows.  
