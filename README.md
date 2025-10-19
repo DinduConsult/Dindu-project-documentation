@@ -47,3 +47,21 @@ WHERE CONDITION = TRUE
 |heading 1|heading 2|heading 3|
 |---------|---------|---------|
 |Table 1  |table 2  |Table 3  |
+
+### Example using Social Media Buzz data
+
+
+[Buzz social dataset.xlsx](https://github.com/user-attachments/files/22991819/Buzz.social.dataset.xlsx)
+
+
+[buzz social - cleaned dataset.xlsx](https://github.com/user-attachments/files/22991774/buzz.social.-.cleaned.dataset.xlsx)
+
+### Examples of Dashboard Visualization
+
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/cf7911f9-6509-42ec-b67c-92423d06d33b" />
+
+
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/b93772d5-2718-48ef-9323-e2616cdaab88" />
+
+
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/a7f025e6-c87b-4f28-9fb5-5651374ccd8a" />
