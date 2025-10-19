@@ -11,8 +11,8 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Data visualization](#data-visualization)
-- [Procurement Officer](#Procurement-Officer)
-- [Freelancer / Administrative Consultant](#Freelancer/Administrative-Consultant)
+- [Procurement Officer](#procurement-officer)
+- [Freelancer / Administrative Consultant](#freelancer/administrative-consultant)
 
 
 ### Project Overview:
