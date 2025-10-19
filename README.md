@@ -85,7 +85,7 @@ WHERE CONDITION = TRUE
 
 ### 📊 Tools & Skills
 
-Microsoft Excel | MS Word | Google shared sheet |
+Microsoft Excel | MS Word | Google spreadsheet |
 
 
 
@@ -100,4 +100,4 @@ Microsoft Excel | MS Word | Google shared sheet |
 
 ### Tools & Skills
 
-Excel | Power BI | Adobe Photoshop  | Documentation | Data Analysis
+Excel | Power BI | Adobe Photoshop  | Documentation | Data Analysis |
