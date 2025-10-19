@@ -12,7 +12,7 @@
 - [Data Analysis](#data-analysis)
 - [Data visualization](#data-visualization)
 - [Procurement Officer](#procurement-officer)
-- [Freelancer / Administrative Consultant](#freelancer-/-administrative-consultant)
+- [Freelancer / Administrative Consultant](#freelancer--administrative-consultant)
 
 
 ### Project Overview:
