@@ -1,7 +1,7 @@
-# Dindu-project-documentation
+# CHIMUDINDU IFEANYI PORTFOLIO
 ---
 
-### Project Title: 
+### Project Title: Data Analytics, Procurement & Freelance Projects
 
 ### Outlines
 - [Project Overview](#project-overview)
@@ -11,7 +11,12 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Data visualization](#data-visualization)
-### Project Overview: 
+- [Procurement Officer](#Procurement-Officer)
+- [Freelancer / Administrative Consultant](#Freelancer/Administrative-Consultant)
+
+
+### Project Overview:
+I am a results-driven professional with experience spanning data analytics, procurement administration, and freelance consulting. My work focuses on transforming data into actionable insights, optimizing business operations, and delivering creative and administrative solutions that drive organizational success.
 
 ### Data Sorces
 The primary source of data used here is data sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other other data repository site.
@@ -65,3 +70,33 @@ WHERE CONDITION = TRUE
 
 
 <img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/a7f025e6-c87b-4f28-9fb5-5651374ccd8a" />
+
+
+### Procurement Officer [Ngcom Networks Solutions Ltd]
+
+- Managed procurement operations.
+- Monitored, verified inventory and accurately kept records of equipment while ensuring that every product information, purchase orders and shipping details are correctly recorded using Excel
+- Assigned equipment to every job order while ensuring that the equipment is restocked timely and does not go out of stock. 
+- Streamlined procurement workflows and improved inventory tracking using Excel.  
+- Coordinated cross-departmental communication to ensure timely supply delivery and cost efficiency.  
+- Prepared PO's and procurement documentation in line with organizational policies.  
+- Implemented digital filing and data-tracking systems for better transparency and audit readiness.
+
+### 📊 Tools & Skills
+
+Microsoft Excel | MS Word | Google shared sheet |
+
+
+## 💼 Professional Experience  
+
+### Freelancer / Administrative Consultant  [Dindu Consult]
+
+- Provide administrative and procurement support for small businesses, including vendor coordination, and purchasing documentation.  
+- Developed and maintained Excel-based tools for tracking expenses, managing inventory, and optimizing purchasing workflows.  
+- Designed and presented performance dashboards in Power BI to support data-driven decision-making.  
+- Delivered professional graphic design using Adobe Photoshop.  
+- Offered professional resume and business documentation writing services for clients on Upwork.  
+
+### Tools & Skills
+
+Excel | Power BI | Adobe Photoshop  | Documentation | Data Analysis
