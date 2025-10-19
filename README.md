@@ -12,7 +12,7 @@
 - [Data Analysis](#data-analysis)
 - [Data visualization](#data-visualization)
 - [Procurement Officer](#procurement-officer)
-- [Freelancer/Administrative Consultant](#freelancer/administrative-consultant)
+- [Freelancer / Administrative Consultant](#freelancer-/-administrative-consultant)
 
 
 ### Project Overview:
@@ -89,7 +89,7 @@ Microsoft Excel | MS Word | Google shared sheet |
 
 
 
-### Freelancer/Administrative Consultant
+### Freelancer / Administrative Consultant
 [Dindu Consult]
 
 - Provide administrative and procurement support for small businesses, including vendor coordination, and purchasing documentation.  
