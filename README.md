@@ -76,7 +76,7 @@ WHERE CONDITION = TRUE
 [Ngcom Networks Solutions Ltd]
 
 - Managed procurement operations.
-- Monitored, verified inventory and accurately kept records of equipment while ensuring that every product information, purchase orders and shipping details are correctly recorded using Excel
+- Monitored, verified inventory and accurately kept records of equipment while ensuring that every product information, purchase orders and shipping details are correctly recorded using Excel.
 - Assigned equipment to every job order while ensuring that the equipment is restocked timely and does not go out of stock. 
 - Streamlined procurement workflows and improved inventory tracking using Excel.  
 - Coordinated cross-departmental communication to ensure timely supply delivery and cost efficiency.  
